@@ -18,9 +18,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#Matlab toolbox">Matlab toolbox</a></li>
-    <li><a href="#GUI application">GUI application</a></li>
-    <li><a href="#Global sfm">Global sfm</a></li>
+    <li><a href="#matlab toolbox">Matlab toolbox</a></li>
+    <li><a href="#gUI application">GUI application</a></li>
+    <li><a href="#global sfm">Global sfm</a></li>
     <li><a href="#contributing">Contributing</a></li>    
   </ol>
 </details>
