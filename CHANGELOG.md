@@ -44,6 +44,8 @@ Our program can perform 3D reconstruction on the input series of pictures, and c
 <!-- GUI application -->
 ## GUI application
 
+[![Product Name Screen Shot][product-screenshot]](https://github.com/Jan8217/G36/blob/master/images/G36_GUI.png)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Global sfm -->
