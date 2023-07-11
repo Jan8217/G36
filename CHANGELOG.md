@@ -16,12 +16,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>      
-    </li>
-    <li>
-      <a href="#matlab toolbox">matlab toolbox</a>      
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#matlab toolbox">matlab toolbox</a></li>
     <li><a href="#GUI application">Usage</a></li>
     <li><a href="#Global sfm">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
