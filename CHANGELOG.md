@@ -5,7 +5,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Computer Vision Challenge</h3>
+<h3 align="center">Computer Vision Challenge--G36</h3>
 
   <p align="center">
     project_description
