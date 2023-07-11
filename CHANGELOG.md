@@ -25,16 +25,12 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 Our program can perform 3D reconstruction on the input series of pictures, and can also measure the distance and size of the reconstructed images. We utilized the 3D reconstruction by the global sfm algorithm.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- Matlab toolbox -->
 ## Matlab toolbox
@@ -45,12 +41,10 @@ Our program can perform 3D reconstruction on the input series of pictures, and c
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- GUI application -->
 ## GUI application
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- Global sfm -->
 ## Global sfm
@@ -62,7 +56,6 @@ The camera pose solution is also divided into two steps: the first step is to so
 The global sfm only needs to perform Bundle Adjustment once at the end, so it is more efficient, but its robustness is poor, and it is easy to be affected by outlier and cause reconstruction failure
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
