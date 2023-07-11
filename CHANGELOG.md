@@ -21,7 +21,7 @@
     <li><a href="#GUI application">GUI application</a></li>
     <li><a href="#Global sfm">Global sfm</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    </li>
+    
   </ol>
 </details>
 
