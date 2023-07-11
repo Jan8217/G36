@@ -38,27 +38,11 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- matlab toolbox -->
 ## matlab toolbox
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,7 +51,6 @@ To get a local copy up and running follow these simple example steps.
 ## GUI application
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- Global sfm -->
@@ -81,7 +64,6 @@ To get a local copy up and running follow these simple example steps.
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
