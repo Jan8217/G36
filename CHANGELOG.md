@@ -18,7 +18,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#matlab toolbox">matlab toolbox</a></li>
+    <li><a href="#Matlab toolbox">Matlab toolbox</a></li>
     <li><a href="#GUI application">GUI application</a></li>
     <li><a href="#Global sfm">Global sfm</a></li>
     <li><a href="#contributing">Contributing</a></li>    
@@ -38,8 +38,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-<!-- matlab toolbox -->
-## matlab toolbox
+<!-- Matlab toolbox -->
+## Matlab toolbox
 
 1. Symbolic Math Toolbox
 2. Image Proccessing Toolbox
