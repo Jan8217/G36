@@ -20,7 +20,7 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#matlab-toolbox">Matlab toolbox</a></li>
     <li><a href="#gUI-application">GUI application</a></li>
-    <li><a href="#global-sfm">Global sfm</a></li>
+    <li><a href="#global-sfm">Global SFM</a></li>
     <li><a href="#contributing">Contributing</a></li>    
   </ol>
 </details>
@@ -48,8 +48,8 @@ Our program can perform 3D reconstruction on the input series of pictures, and c
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- Global sfm -->
-## Global sfm
+<!-- Global SFM -->
+## Global SFM
 
 Global sfm can obtain all camera poses and scene point structures at one time. It usually obtains the poses of all cameras first, and then obtains the scene points through triangulation.
 
