@@ -9,7 +9,7 @@
 <h3 align="center">Computer Vision Challenge--G36</h3>
 
   <p align="center">
-    The description file for the 36 groups in the Challenge of Tum's 2023 computer Vision course
+    The description file for the 36 groups in the Challenge of Tum's 2023 computer Vision lecture
   </p>
 </div>
 
