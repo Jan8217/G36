@@ -8,7 +8,7 @@
 <h3 align="center">Computer Vision Challenge--G36</h3>
 
   <p align="center">
-    Our program can perform 3D reconstruction on the input series of pictures, and can also measure the distance and size of the reconstructed images. We utilized the 3D reconstruction by the global sfm algorithm
+    Our program can perform 3D reconstruction on the input series of pictures, and can also measure the distance and size of the reconstructed images. We utilized the 3D reconstruction by the global sfm algorithm.
   </p>
 </div>
 
