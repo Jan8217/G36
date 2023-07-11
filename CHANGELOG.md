@@ -16,12 +16,13 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    </li>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#matlab toolbox">matlab toolbox</a></li>
     <li><a href="#GUI application">GUI application</a></li>
     <li><a href="#Global sfm">Global sfm</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    
+    </li>
   </ol>
 </details>
 
