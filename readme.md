@@ -35,9 +35,8 @@ Our program can perform 3D reconstruction on the input series of pictures, and c
 <!-- Matlab toolbox -->
 ## Matlab toolbox
 
-1. Symbolic Math Toolbox
-2. Image Proccessing Toolbox
-3. Computer Vision Toolbox
+1. Image Proccessing Toolbox
+2. Computer Vision Toolbox
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
