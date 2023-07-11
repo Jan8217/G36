@@ -40,8 +40,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- matlab toolbox -->
 ## matlab toolbox
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+1 Symbolic Math Toolbox
+2 Image Proccessing Toolbox
+3 Computer Vision Toolbox
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
