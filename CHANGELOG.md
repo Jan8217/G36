@@ -19,7 +19,7 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#matlab toolbox">matlab toolbox</a></li>
     <li><a href="#GUI application">GUI application</a></li>
-    <li><a href="#Global sfm">Roadmap</a></li>
+    <li><a href="#Global sfm">Global sfm</a></li>
     <li><a href="#contributing">Contributing</a></li>
     </li>
   </ol>
@@ -70,8 +70,8 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- Global sfm -->
+## Global sfm
 
 - [ ] Feature 1
 - [ ] Feature 2
