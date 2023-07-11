@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -40,9 +41,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- matlab toolbox -->
 ## matlab toolbox
 
-1 Symbolic Math Toolbox
-2 Image Proccessing Toolbox
-3 Computer Vision Toolbox
+1. Symbolic Math Toolbox
+2. Image Proccessing Toolbox
+3. Computer Vision Toolbox
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
