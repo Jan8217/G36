@@ -49,7 +49,7 @@ Our program can perform 3D reconstruction on the input series of pictures, and c
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Global sfm -->
-## Global sfm
+
 
 Global sfm can obtain all camera poses and scene point structures at one time. It usually obtains the poses of all cameras first, and then obtains the scene points through triangulation.
 
